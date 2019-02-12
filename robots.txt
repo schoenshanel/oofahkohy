@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ithaeph.lindylevinson.com/sitemap.xml
